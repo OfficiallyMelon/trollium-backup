@@ -1,2 +1,2 @@
-# trollium-backup
-trollium got taken down lmao
+# Trollium Client
+Hacked client for Bloxd.io
